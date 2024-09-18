@@ -1,0 +1,13 @@
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform provider binaries
+.terraform/
+
+# Terraform lock file
+.terraform.lock.hcl
+
+# OS-specific hidden files
+.DS_Store
+
